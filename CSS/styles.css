@@ -1,0 +1,11 @@
+body{
+  background-color: white;
+  color:#81b214;
+  margin: 200px;
+}
+.toggle_style{
+  color:#206a5d;
+  font-style: italic;
+  font-size: 200px;
+
+}
